@@ -8,6 +8,7 @@ public class Java12deployApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(Java12deployApplication.class, args);
+        System.out.println("RUUUUN");
     }
 
 }
